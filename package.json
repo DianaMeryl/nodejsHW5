@@ -1,0 +1,19 @@
+{
+  "name": "nodejshw5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start-51": "node ./hw51/index.js",
+    "start-52": "node ./hw52/app.js",
+    "start-53": "node ./hw53/index.js",
+    "start-54": "node ./hw54/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
